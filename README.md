@@ -1,5 +1,6 @@
 # Bit-string-recording
-    You have to reorder a given bit string as specified. The only operation allowed is swapping adjacent
+    
+   You have to reorder a given bit string as specified. The only operation allowed is swapping adjacent
 bit pairs. Please write a program that calculates the minimum number of swaps required.
     The initial bit string is simply represented by a sequence of bits, while the target is specified by a
 run-length code. The run-length code of a bit string is a sequence of the lengths of maximal consecutive
